@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B18E5A56-13D2-45C5-8628-0A4472CB0104}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FragmentsTest/FragmentsTest.Droid/Activities/MainActivity.cs">
+    <Files>
+      <File FileName="FragmentsTest/FragmentsTest.Droid/Activities/MainActivity.cs" Line="24" Column="1" />
+      <File FileName="FragmentsTest/FragmentsTest.Droid/Views/TabsView.cs" Line="32" Column="10" />
+      <File FileName="FragmentsTest/FragmentsTest.Droid/Views/Tab1View.cs" Line="9" Column="121" />
+      <File FileName="FragmentsTest/FragmentsTest.Droid/Views/Tab2View.cs" Line="9" Column="149" />
+      <File FileName="FragmentsTest/FragmentsTest.Droid/Views/Tab3View.cs" Line="18" Column="72" />
+      <File FileName="FragmentsTest/FragmentsTest.Droid/Views/ChildView.cs" Line="11" Column="78" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Droid/Views/TabsView.cs" relfile="FragmentsTest/FragmentsTest.Droid/Views/TabsView.cs" line="27" column="1" />
+      <Breakpoint file="/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Droid/Activities/MainActivity.cs" relfile="FragmentsTest/FragmentsTest.Droid/Activities/MainActivity.cs" line="32" column="28" />
+      <Breakpoint file="/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Droid/Activities/MainActivity.cs" relfile="FragmentsTest/FragmentsTest.Droid/Activities/MainActivity.cs" line="24" column="34" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FragmentsTest.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="MyTheme" />
+  <MultiItemStartupConfigurations />
+</Properties>

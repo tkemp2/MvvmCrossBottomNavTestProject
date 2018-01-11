@@ -1,0 +1,8 @@
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/bin/Debug/netstandard1.4/FragmentsTest.Core.deps.json
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/bin/Debug/netstandard1.4/FragmentsTest.Core.dll
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/bin/Debug/netstandard1.4/FragmentsTest.Core.pdb
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/obj/Debug/netstandard1.4/FragmentsTest.Core.csproj.CoreCompileInputs.cache
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/obj/Debug/netstandard1.4/FragmentsTest.Core.AssemblyInfoInputs.cache
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/obj/Debug/netstandard1.4/FragmentsTest.Core.AssemblyInfo.cs
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/obj/Debug/netstandard1.4/FragmentsTest.Core.dll
+/Users/timkemp/Projects/FragmentsTest/FragmentsTest/FragmentsTest.Core/obj/Debug/netstandard1.4/FragmentsTest.Core.pdb
